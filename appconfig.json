@@ -1,7 +1,7 @@
 {
   "isTestAdMode": false,
-  "isAppOpenAdEnable": true,
-  "noneAdFreeMaxEvents": 0,
-  "adRelatedMinEvents": 0,
-  "adRelatedRandomRange": 1
+  "isAppOpenAdEnable": false,
+  "noneAdFreeMaxEvents": 5,
+  "adRelatedMinEvents": 3,
+  "adRelatedRandomRange": 3
 }
